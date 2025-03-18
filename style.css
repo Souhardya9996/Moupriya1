@@ -1,3 +1,7 @@
+body,button{
+    color:white;
+    background-color: black;
+}
 .body1,.body2,.body3{
     display: flex;
     justify-content: center;
